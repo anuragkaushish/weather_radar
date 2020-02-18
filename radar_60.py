@@ -1,9 +1,9 @@
 #!/usr/bin/env python3.5
 # -*- coding: utf-8 -*-
 """
-Created on Fri May 18 16:43:05 2018
+Created on Fri May 18 16:43:05 2019
 
-@author: Manish Sharma
+@author: Anurag Sharma
 """
 
 import os
@@ -16,7 +16,7 @@ import logging
 import time
 sys.path.append('/usr/local/lib/python3.5/dist-packages/pytesseract/')
 
-#path1 = 'C:/Users/Manu/Documents/Python Scripts/RadarImages/server/'
+#path1 = 'C:/Users/anurag/Documents/Python Scripts/RadarImages/server/'
 path1='/home/sanand/radar/'
 os.chdir(path1)
 
